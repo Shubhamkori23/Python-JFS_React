@@ -1,4 +1,5 @@
 # Python code to illustrate working of try()
+
 def divide(x, y):
     try:
         result = x // y
