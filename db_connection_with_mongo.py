@@ -1,7 +1,7 @@
 import pymongo
 
 # mongodb cluster URl
-connectionString = "mongodb+srv://Shubh:6668@cluster0.tt98tdj.mongodb.net/test"
+connectionString = "mongodb+srv://Shubh:<password>@cluster0.tt98tdj.mongodb.net/test"
 
 # create database and inset id
 if __name__ == '__main__':
