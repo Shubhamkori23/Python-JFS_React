@@ -17,3 +17,4 @@ if __name__ == '__main__':
     dblist = client.list_database_names()
     if "test-database" in dblist:
         print("The database exists.")
+

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d3aad5b-f6ea-4cf5-8d67-46129b934020" name="Changes" comment="Commit" />
+    <list default="true" id="4d3aad5b-f6ea-4cf5-8d67-46129b934020" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/db_connection_with_mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_connection_with_mongo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
