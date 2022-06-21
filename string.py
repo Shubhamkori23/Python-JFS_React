@@ -29,5 +29,5 @@ print(String1[-1])
 # Deleting a character
 # del String1[2]
 
-# Note : In Python, Updation or deletion of characters from a String is not allowed because Strings are immutable. Only new strings can be reassigned to the same name.
-
+# Note : In Python, Update or deletion of characters from a String is not allowed because Strings are immutable.
+# Only new strings can be reassigned to the same name.
